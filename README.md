@@ -27,6 +27,14 @@ The backend will start on `http://localhost:5000/api`. Ensure your frontend is p
 
 
 
+# Database Schema Design
+
+![Alt Text](./image/database_schema_design.png)
+
+
+
+
+
 # Project Management Dashboard API Documentation
 
 ## Base URL
