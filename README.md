@@ -12,9 +12,9 @@ DATABASE_URL="prisma+postgres://accelerate.prisma-data.net/?api_key=eyJhbGciOiJI
 JWT_SECRET="jaberamin9"
 ```
 
-## Step 3: Run Database Migrations
+## Step 3: Generate Prisma Client
 ```sh
-npx prisma migrate dev --name init
+npx prisma generate
 ```
 
 ## Step 4: Start the Server
